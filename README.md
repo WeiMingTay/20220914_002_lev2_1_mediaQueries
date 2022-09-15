@@ -1,6 +1,6 @@
 20220914 lev2_1 media Queries
 
-Link zur Seite: 
+Link zur Seite: https://weimingtay.github.io/20220914_002_lev2_1_mediaQueries/
 
 # Aufgabenstellung
 
